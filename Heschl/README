@@ -1,0 +1,12 @@
+# AUTHOR: Susanna Aro <susanna.aro@aalto.fi>
+
+# "Heschl" includes annotations with particular emphasis on Heschl gyrus area.
+
+# Notes:
+#	lh: 119 labels, average size: 471.745027865mm2	Median: 489.457156355	STD: 132.31482851
+#	rh: 117 labels, average size: 475.653837451mm2	Median: 478.86428301	STD: 135.648070119
+
+# 	- updated version from the one generated in 2015. (by Pekka Laitio)
+# 	- generated with divide_parcellation.py (method=PCA)
+#	- generated 21/2/2016
+

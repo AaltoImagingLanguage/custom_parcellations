@@ -1,0 +1,8 @@
+# AUTHOR: Susanna Aro <susanna.aro@aalto.fi>
+
+# This folder includes everything needed for generating custom anatomical parcellations with divide_parcellation.py
+
+# divide_parcellation.py: The current version for generating the labels.
+# EXAMPLE1_workflow.py demonstrates how to use divide_parcellation (original author: Pekka Laitio)
+# instrucions.pdf (author: Pekka Laitio) has detailed instructions
+

@@ -1,0 +1,18 @@
+# AUTHOR: Susanna Aro <susanna.aro@aalto.fi>
+
+# Labels (especially gyrus and sulcus) were merged together before splitting.
+# The merged annotation is aparc.a2009s_custom_merged.annot
+# G_front_sup was split to roughly lateral and medial labels before merging
+
+# Notes:
+#	- Annot files were generated with divide_parcellation.py (method='PCA')
+# 	- Target label size included in name.
+#	- generated 16/2/2017
+#		-> updated color scheme and new mergefile used.
+#	- More accurate stats are included in parcellation_summary.pdf
+#	- Number of labels in different parcellations (lh/rh):
+		. 700mm2: 82/83
+		. 800mm2: 70/69
+		. 900mm2: 63/63
+		. 1000mm2: 59/57
+		. 1100mm2: 55/55
